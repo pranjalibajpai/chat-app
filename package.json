@@ -1,0 +1,24 @@
+{
+  "name": "myfirstsocket.ioapp",
+  "version": "1.0.0",
+  "description": "My first Socket.io chat app learned from YouTube Channel: The Net Ninja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranjalibajpai/chat-app.git"
+  },
+  "author": "Pranjali Bajpai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranjalibajpai/chat-app/issues"
+  },
+  "homepage": "https://github.com/pranjalibajpai/chat-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "socket.io": "^2.3.0"
+  }
+}
