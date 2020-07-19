@@ -8,7 +8,7 @@ A simple chat app build using Node.js WebSocket library Socket.io.
 4. Run **npm install** to install dependencies defined in package.json.
 
 ## How to run 
-* Run nodemon indes.js
+* Run nodemon index.js
 * Visit **http://localhost:1616** on your browser
 
 ### Enjoy!
