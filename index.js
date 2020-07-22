@@ -5,8 +5,9 @@ var socket = require('socket.io');
 var app = express();
 
 //Add port
-var server = app.listen(1616, function(){
-    console.log("Listening to port 1616");
+var port = process.env.PORT || 1616;
+var server = app.listen(port, function(){
+    console.log("Listening to port".port);
 });
 
 //Static Files
