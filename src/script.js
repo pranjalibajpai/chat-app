@@ -1,6 +1,6 @@
 //Make socket connection to front end
-var socket = io.connect('http://localhost:1616');
-
+//var socket = io.connect('http://localhost:1616');
+var socket = io();
 //Variables for query
 var message = document.getElementById('message');
 var handle = document.getElementById('handle');
