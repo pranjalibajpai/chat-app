@@ -7,7 +7,7 @@ var app = express();
 //Add port
 var port = process.env.PORT || 1616;
 var server = app.listen(port, function(){
-    console.log("Listening to port".port);
+    console.log("Listening to port",port);
 });
 
 //Static Files
