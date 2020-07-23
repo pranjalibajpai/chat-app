@@ -11,4 +11,6 @@ A simple chat app build using Node.js WebSocket library Socket.io.
 * Run nodemon index.js
 * Visit **http://localhost:1616** on your browser
 
+## See this
+* https://chat-app-by-pb.herokuapp.com/
 ### Enjoy!
