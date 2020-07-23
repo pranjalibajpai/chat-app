@@ -1,4 +1,4 @@
-# chat-app
+# chat-app :iphone:
 A simple chat app build using Node.js WebSocket library Socket.io. 
 
 ## Pre-requisite
