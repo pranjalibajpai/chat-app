@@ -1,7 +1,11 @@
 # chat-app :iphone:
 A simple chat app build using Node.js WebSocket library Socket.io. 
 
-## How to run
+# Preview 🚀
+
+![demo.gif](https://github.com/pranjalibajpai/chat-app/blob/master/demo.gif)
+
+# How to run locally 💻
 1. Install [Node.JS](http://nodejs.org/).  
 2. Clone the repository or download it.
 3. Browse the project repository on your command prompt or terminal.
@@ -9,11 +13,8 @@ A simple chat app build using Node.js WebSocket library Socket.io.
 5. Run nodemon index.js
 6. Visit **http://localhost:1616** on your browser
 
-## Preview :computer:
 
-![demo.gif](https://github.com/pranjalibajpai/chat-app/blob/master/demo.gif)
-
-## Link to The Latest Deployed Version
+# Latest Deployed Version :dart:
 * https://chat-app-by-pb.herokuapp.com/
 
 ### Share with your friends & enjoy! :smiley:
